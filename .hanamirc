@@ -1,0 +1,4 @@
+project=hanami_boox
+architecture=container
+test=minitest
+template=erb
