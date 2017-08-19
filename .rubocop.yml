@@ -99,3 +99,6 @@ RSpec/MessageSpies:
 
 RSpec/ScatteredLet:
   Enabled: false
+
+RSpec/DescribedClass:
+  Enabled: false
